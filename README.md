@@ -1,5 +1,11 @@
-# book-price-intelligence
-End-to-End Data Engineering + Data Analytics Project (Web Scraping, SQL, Power BI)
+# 📊 Book Pricing & Inventory Intelligence
+
+🚀 End-to-End Data Engineering + Data Analytics Project  
+(Web Scraping | SQL Server | Power BI)
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard/dashboard_screenshot.png)
 
 ## Power BI Dashboard
 
