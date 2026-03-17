@@ -24,7 +24,7 @@ Web Scraping (Python) → Data Cleaning (Pandas) → SQL Server → Power BI Das
 - Power BI (DAX, Visualization)
 - GitHub (Version Control)
 
-  ## ⚙️ Data Engineering Workflow
+## ⚙️ Data Engineering Workflow
 
 - Scraped data from an e-commerce website using Python  
 - Parsed HTML using BeautifulSoup  
@@ -32,7 +32,7 @@ Web Scraping (Python) → Data Cleaning (Pandas) → SQL Server → Power BI Das
 - Stored structured data in SQL Server  
 - Created reusable datasets for analysis
 
-  ## 🧮 SQL Analysis
+## 🧮 SQL Analysis
 
 Performed queries to:
 
@@ -41,7 +41,7 @@ Performed queries to:
 - Analyze inventory distribution  
 - Evaluate pricing trends across categories
 
-  ## 📊 Power BI Dashboard
+## 📊 Power BI Dashboard
 
 This dashboard provides insights into:
 
@@ -57,7 +57,7 @@ This dashboard provides insights into:
 - Inventory availability is nearly 100%  
 - Premium pricing observed in categories like Suspense and Novels
 
-  ## 💼 Business Impact
+## 💼 Business Impact
 
 - Helps identify premium product segments  
 - Supports pricing strategy decisions  
