@@ -5,7 +5,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard/dashboard_screenshot.png)
+![Dashboard](dashboard/dashboardScreenshot.png)
 
 ## Power BI Dashboard
 
