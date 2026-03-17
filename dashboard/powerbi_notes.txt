@@ -1,0 +1,12 @@
+Visualization (Power BI)
+- KPI Cards (Total Books, Avg Price, Avg Rating, Stock %)
+- Bar charts for category analysis
+- Line chart for pricing trends
+- Scatter plot for price vs rating
+- Slicers for interactivity
+
+Higher-rated books tend to have higher prices
+- Certain categories dominate inventory
+- Inventory availability is very high
+- Premium categories identified
+- Weak correlation between price and rating
